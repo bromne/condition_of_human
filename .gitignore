@@ -1,0 +1,6 @@
+# compile, build
+.sass-cache
+
+# Vagrant, Ansible
+.vagrant
+vagrant_ansible_inventory_default
