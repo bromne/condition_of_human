@@ -4,3 +4,7 @@
 # Vagrant, Ansible
 .vagrant
 vagrant_ansible_inventory_default
+
+# Django
+*.pyc
+*.sqlite3
